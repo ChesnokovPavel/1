@@ -1,0 +1,215 @@
+body {
+	margin: 0px 0px 0px 0px;
+	background-color: #f5f0f4;
+	border: 88px solid #f5f0f4;
+	border-image: url(../img/plenkaL11.png) 88 88 88 88 round round; border-width: 88px; width: 91%; height: 3450px; 
+}
+.Nazvanie{
+	font-family: lobster, cursive;
+	font-size: 30px;
+	color: #1f1f1f;
+	height: 42px;
+	width: 482px;
+	margin: 50px 0px 0px 220px;
+}
+h1{
+	font-family: lobster, cursive;
+	font-size: 100px;
+	color: #1f1f1f;
+	width: 1070px;
+	height: 150px;
+	padding: 0px 0px 0px 0px;
+	margin: -25px 0px 0px 200px;
+}
+.Boroda{
+	width: 200px;
+	height: 267px;
+	margin: -230px 0px 0px 1350px;
+}
+.liniya1{
+	size: 5px;
+	height: 5px;
+	background-color: #1f1f1f;
+	color: #1f1f1f;
+	margin: 75px 150px 0px 150px;
+}
+.DostoevskiDiv{
+	width: 960px;
+}
+.Dostoevski{
+	font-family: Oswald, sans-serif;
+	font-size: 40px;
+	color: #1f1f1f;
+	margin: 75px 0px 0px 75px;
+	}
+.DostoevskiImg{
+	border: 5px solid;
+	border-color: #1f1f1f;
+	margin: 50px 0px 0px 80px;
+}
+.DostoevskiText{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: -565px 0px 0px 500px;
+	height: 500px;
+	width: 450px;
+}
+.DostoevskiText1{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: 74px 0px 0px 75px;
+	height: 500px;
+	width: 890px;
+}
+.Luchek{
+	background-color: #1f1f1f;
+	width: 600px;
+	border: 10px dashed;
+	border-color: #f5f0f4;
+	border-radius: 40px;
+	height: 2500px;
+	margin: -1180px 0px 0px 1065px;
+}
+.Luki{
+	font-family: Oswald, sans-serif;
+	font-size: 40px;
+	color: #1f1f1f;
+	margin: 0px 0px 0px 105px;
+	color: #ffffff;
+	padding: 10px 0px 0px 0px;
+	}
+.Luki1{
+	font-family: Oswald, sans-serif;
+	font-size: 30px;
+	color: #1f1f1f;
+	margin: 0px 0px 0px 61px;
+	color: #ffffff;
+	padding: 10px 0px 0px 0px;
+	}
+.Danil{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	width: 500px;
+	margin: 50px 0px 0px 75px;
+	color: #ffffff;
+	padding: 0px 0px 0px 0px;
+	}
+.DanilJpg{
+	border: 2px solid;
+	border-color: #f5f0f4;
+	border-radius: 40px;
+	margin: 35px 0px 0px 100px;
+}
+.German{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	width: 500px;
+	margin: 50px 0px 0px 75px;
+	color: #ffffff;
+	padding: 0px 0px 0px 0px;
+}
+.GermanJpg{
+	border: 2px solid;
+	border-color: #f5f0f4;
+	border-radius: 40px;
+	margin: 35px 0px 0px 100px;
+}
+.Leonid{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	width: 500px;
+	margin: 50px 0px 0px 75px;
+	color: #ffffff;
+	padding: 0px 0px 0px 0px;
+}
+.LeonidJpg{
+	border: 2px solid;
+	border-color: #f5f0f4;
+	border-radius: 40px;
+	margin: 35px 0px 0px 100px;
+}
+.liniya2{
+	size: 5px;
+	height: 5px;
+	background-color: #1f1f1f;
+	color: #1f1f1f;
+	margin: -1470px 850px 0px 130px;
+}
+.Piramida{
+	font-family: Oswald, sans-serif;
+	font-size: 35px;
+	color: #1f1f1f;
+	margin: 35px 0px 0px 75px;
+	}
+.Piramida1{
+	font-family: Oswald, sans-serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: 25px 0px 0px 75px;
+	height: 500px;
+	width: 890px;
+	}
+.Hipster{
+	font-weight: bold;
+	text-decoration: underline;
+	color: #1f1f1f;
+	}
+.smotr{
+	font-family: Oswald, sans-serif;
+	font-size: 40px;
+	color: #1f1f1f;
+	margin: 850px 0px 0px 75px;
+}
+.smotr2{
+	font-family: Roboto Slab, serif;
+	font-size: 25px;
+	color: #1f1f1f;
+	margin: 25px 0px 0px 106px;
+}
+.smotr3{
+	font-family: Roboto Slab, serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: 0px 0px 0px 102px;
+}
+.topalov{
+	border: 5px solid;
+	border-color: #1f1f1f;
+	margin: 10px 0px 0px 95px;
+}
+.smotr4{
+	font-family: Roboto Slab, serif;
+	font-size: 25px;
+	color: #1f1f1f;
+	margin: -474px 0px 0px 570px;
+}
+.smotr5{
+	font-family: Roboto Slab, serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: 0px 0px 0px 570px;
+}
+.mk{
+	border: 5px solid;
+	border-color: #1f1f1f;
+	margin: 19px 0px 0px 630px;
+}
+.smotr6{
+	font-family: Roboto Slab, serif;
+	font-size: 25px;
+	color: #1f1f1f;
+	margin: -473px 0px 0px 1180px;
+}
+.smotr7{
+	font-family: Roboto Slab, serif;
+	font-size: 20px;
+	color: #1f1f1f;
+	margin: 0px 0px 0px 1190px;
+}
+.joy{
+	border: 5px solid;
+	border-color: #1f1f1f;
+	margin: 42px 0px 0px 1215px;
+}
